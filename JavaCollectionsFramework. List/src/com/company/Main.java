@@ -6,7 +6,7 @@
 *
 * Copyright Ivan Holovey
 *
-* Module 1. Task 1
+* Module 3. Task 1
 *
 * 1. Create ArrayList and LinkedList containing  100 000 Integer elements.
 *  Compare time intervals.
