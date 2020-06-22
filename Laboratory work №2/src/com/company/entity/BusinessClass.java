@@ -24,11 +24,11 @@ public class BusinessClass implements ICosting {
     }
 
     public int getBusinessCost() {
-        return BusinessCost;
+        return businessCost;
     }
 
     public void setBusinessCost(int businessCost) {
-        BusinessCost = businessCost;
+        this.businessCost = businessCost;
     }
 
 
