@@ -5,14 +5,14 @@ import com.company.interfaces.ICosting;
 public class BusinessClass implements ICosting {
 
     private String name;
-    private int BusinessCost;
+    private int businessCost;
 
     public BusinessClass() {
     }
 
     public BusinessClass(String name, int businessCost) {
         this.name = name;
-        BusinessCost = businessCost;
+        this.businessCost = businessCost;
     }
 
     public String getName() {
